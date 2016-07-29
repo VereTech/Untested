@@ -1,1 +1,0 @@
-Please note that after running these scripts, a reboot will most likely be required.
